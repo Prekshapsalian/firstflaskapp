@@ -1,0 +1,20 @@
+ body{
+    background-color:aqua;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+ }
+ .container{
+    color: thistle;
+    background: rgb(85,84,84);
+    border-radius: 30px;
+    width: 70%;
+}
+IMG{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    border-radius: 50%;
+    
+}
